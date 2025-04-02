@@ -1,0 +1,3 @@
+docker container
+kernel os
+context switching...
